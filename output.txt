@@ -1,0 +1,18 @@
+MySQL Data:
+(1, 'John Doe', 'johndoe@example.com', 'password123')
+(2, 'Alice Smith', 'alice.smith@example.com', 'alicepassword')
+(3, 'Bob Brown', 'bob.brown@example.com', 'bobpassword')
+(4, 'Charlie Davis', 'charlie.davis@example.com', 'charliepassword')
+(5, 'David Wilson', 'david.wilson@example.com', 'davidpassword')
+(6, 'Eva Johnson', 'eva.johnson@example.com', 'evapassword')
+(7, 'Frank Clark', 'frank.clark@example.com', 'frankpassword')
+(8, 'Grace Lewis', 'grace.lewis@example.com', 'gracepassword')
+(9, 'Henry Walker', 'henry.walker@example.com', 'henrypassword')
+(10, 'Ivy Martin', 'ivy.martin@example.com', 'ivypassword')
+
+MongoDB Data:
+{'_id': ObjectId('676fbeb8b2a43f196db85300'), 'name': 'vatsal', 'email': 'vatsal@gmail.com', 'password': '1234'}
+{'_id': ObjectId('676fbef3d81368aa02967fdc'), 'name': 'vatsal', 'email': 'vatsal@gmail.com', 'password': '1234'}
+{'_id': ObjectId('676fbf04e70afa8b5a5fd035'), 'name': 'vatsal', 'email': 'vatsal@gmail.com', 'password': '1234'}
+
+SQLite Data:
